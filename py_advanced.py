@@ -13,4 +13,4 @@ def printer():
 def summer():
     print("Too hot!")
     
-summer()
+printer()
