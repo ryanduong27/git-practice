@@ -1,0 +1,11 @@
+[
+    {
+        "hosts": "",
+        "ports": "",
+        "title": "RemoAssist_rc.exe_3.2.14.824_win_32_SIG_RDP_2.0",
+        "type": "RDP",
+        "files": [
+            "RemoAssist_rc.exe_3.2.14.824_win_32_SIG_RDP_2.0.json"
+        ]
+    }
+]
