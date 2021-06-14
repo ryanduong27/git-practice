@@ -1,0 +1,15 @@
+{
+    "hosts": "",
+    "ports": "",
+    "os": "win",
+    "certificate": "",
+    "process_name": "",
+    "active_status": null,
+    "arch": "32",
+    "reason": "AF-2779",
+    "signature": "26626028e895c2b521c7d30015fa9a7a",
+    "executable": "rc.exe",
+    "display_name": "RemoAssist",
+    "software_ver": "3.2.14.824",
+    "algorithm_ver": "2.0"
+}
